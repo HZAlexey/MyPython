@@ -8,5 +8,5 @@ print(formatter.format(
     "Try your",
     "Own text here",
     "Mabe a poem",
-    "Or a song about fear!!!))"
+    "Or a song about fear"
 ))
