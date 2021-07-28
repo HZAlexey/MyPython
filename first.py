@@ -8,5 +8,9 @@ print(formatter.format(
     "Try your",
     "Own text here",
     "Mabe a poem",
+<<<<<<< HEAD
     "Or a song about fear!!!"
+=======
+    "Or a song about fear"
+>>>>>>> 56321fa25213f3f812973fcf7b83940332606c17
 ))
